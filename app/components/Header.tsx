@@ -11,8 +11,7 @@ const nomeApp = 'Teste';
       Bem-vindo á minha primeira aplIcação React {nomeApp}
     </h1>
     <p>
-        {pessoa.nome}
-        {pessoa.cidade}
+        {pessoa.nome} mora em {pessoa.cidade}
     </p>
     </>
   )
