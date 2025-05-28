@@ -10,9 +10,6 @@ const nomeApp = 'Teste';
     <h1>
       Bem-vindo á minha primeira aplIcação React {nomeApp}
     </h1>
-    <p>
-        {pessoa.nome} mora em {pessoa.cidade}
-    </p>
     </>
   )
 }
